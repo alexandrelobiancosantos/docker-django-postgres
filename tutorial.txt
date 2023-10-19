@@ -1,0 +1,24 @@
+Criar venv
+
+Instalar django
+
+Criar pasta djangoapp
+
+Dentro da pasta, criar projeto
+
+Voltar uma pasta. a pasta que será clonada para o container é a pasta django app
+
+Se for usar banco de dados externo, o que é altamente recomndado, como um outro container, por exemplo, apagar o arquivo db.sqlite
+
+Criar requirements.txt
+
+Criar pasta dotenv_files onde ficarão as variaveis de ambiente
+
+criar .env-example
+
+criar pasta scripts
+
+cria dockerfile
+
+criar docker-compose
+
